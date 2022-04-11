@@ -1,3 +1,3 @@
-This is a test specimen account to test priority towards the organization @pvisor
+_This is a test specimen account to test priority towards the organization @pvisor_
 
-For contacts please message @Automationeer
+**For any issues, or any inquiries please contact @Automationeer**
